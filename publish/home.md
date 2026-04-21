@@ -1,6 +1,6 @@
 ---
 title: Damocles
-excerpt:
+excerpt: Damocles
 ---
 Ceci est un test
 
