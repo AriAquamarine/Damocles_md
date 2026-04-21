@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"4717c738d3d10d25","x":-404,"y":-139,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Entreprises/Benny's Motors.canvas"},
+		{"id":"f4971f5ebdbb4bcf","x":20,"y":-139,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Entreprises/La Ferme.canvas"},
+		{"id":"5ecbd2c17d4a101e","x":-404,"y":-580,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Entreprises/La Paillotte.canvas"},
+		{"id":"3c5bd243098f001e","x":20,"y":-580,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Entreprises/Maravilla News.canvas"},
+		{"id":"67ef39ab83ab42cc","x":-860,"y":-139,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Entreprises/Tropi Korp.canvas"}
+	],
+	"edges":[]
+}

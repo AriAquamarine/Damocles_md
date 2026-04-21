@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"97d12eb630c3a30b","x":-620,"y":-300,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Groupes Crimi/BBL.canvas"},
+		{"id":"4f6875049330171b","x":-200,"y":-300,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Groupes Crimi/Bloodline MC.canvas"},
+		{"id":"bd697b742ea8d17f","x":-620,"y":140,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Groupes Crimi/Le Pacte.canvas"},
+		{"id":"ff26a6249f7a114f","x":-200,"y":140,"width":400,"height":400,"type":"file","file":"Tropicalis/publish/Groupes Crimi/Lost MC.canvas"}
+	],
+	"edges":[]
+}
