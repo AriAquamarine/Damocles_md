@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"16f721f1afeed1c5","type":"text","text":"#Entreprise ","x":-680,"y":-380,"width":250,"height":60},
+		{"id":"a4d991c020c8f2c2","type":"file","file":"Tropicalis/Personnes/Emilio Ramirez.md","x":-430,"y":120,"width":400,"height":400},
+		{"id":"66e2773ed0af9a1f","type":"file","file":"Tropicalis/Personnes/Henry Spitfire.md","x":120,"y":120,"width":400,"height":400},
+		{"id":"9a10918dba518fe6","type":"file","file":"Tropicalis/Personnes/Charlie.md","x":-160,"y":-440,"width":400,"height":400}
+	],
+	"edges":[]
+}

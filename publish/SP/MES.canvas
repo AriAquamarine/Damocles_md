@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"bf8887c5eb01864e","type":"file","file":"Tropicalis/publish/Personnes/Jayden JayJay.md","x":-458,"y":166,"width":400,"height":400},
+		{"id":"406b32316664b292","type":"file","file":"Tropicalis/publish/Personnes/Bob (Cheveux verts).md","x":100,"y":166,"width":400,"height":400},
+		{"id":"e712ce5c14edaf51","x":-760,"y":0,"width":250,"height":60,"type":"text","text":"#ServicePublique "}
+	],
+	"edges":[]
+}

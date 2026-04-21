@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3cf20eff9d2650bc","type":"text","text":"#Entreprise ","x":-146,"y":-86,"width":250,"height":60},
+		{"id":"6aa56172a1032d48","type":"text","text":"## **ARMES BLANCHES**\n\nPoing Américain - 2.000$\n\nCouteau\n\nBaïonnette\n\nHaches\n\nMachette\n\nKatana + Fourreau","x":-159,"y":174,"width":359,"height":545},
+		{"id":"e95c0f29815d648e","type":"file","file":"Tropicalis/Personnes/Max Korp.md","x":380,"y":-256,"width":400,"height":400}
+	],
+	"edges":[]
+}

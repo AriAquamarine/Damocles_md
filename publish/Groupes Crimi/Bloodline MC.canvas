@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"91272f4eebce5a95","type":"text","text":"#GroupeCrimi ","x":-656,"y":-216,"width":250,"height":60},
+		{"id":"b35c59e8271cfc23","type":"text","text":"# **BIZ**\nDROGUE (Anciennement)","x":-656,"y":-129,"width":250,"height":113},
+		{"id":"fd5643906b302cce","type":"file","file":"Tropicalis/Personnes/Teva.md","x":-280,"y":-216,"width":400,"height":400},
+		{"id":"ac33c709d3313d58","type":"text","text":"# **Produits**\n\nKali Love - 25$/u\nRoyale - \n","x":-656,"y":38,"width":250,"height":293}
+	],
+	"edges":[]
+}

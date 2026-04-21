@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d1ade680ed3b789f","type":"file","file":"Tropicalis/Personnes/Teva.md","x":-1440,"y":-360,"width":400,"height":400},
+		{"id":"4fb35ba5af26031c","type":"file","file":"Tropicalis/publish/Damocles/Alex Lysias.md","x":-920,"y":-360,"width":400,"height":400},
+		{"id":"1699caff92185fcd","type":"file","file":"Tropicalis/publish/Damocles/Dzan Popovic.md","x":-400,"y":-360,"width":400,"height":400},
+		{"id":"c0d9cda1beeb9911","type":"file","file":"Tropicalis/Personnes/Nesta.md","x":120,"y":-360,"width":400,"height":400},
+		{"id":"8bdd25d70829bb62","x":640,"y":-360,"width":400,"height":400,"type":"file","file":"Tropicalis/Personnes/Anna.md"},
+		{"id":"d9d77b31a4286671","x":1160,"y":-360,"width":400,"height":400,"type":"file","file":"Tropicalis/Personnes/Kenji.md"},
+		{"id":"1b37489085a8679c","type":"file","file":"Tropicalis/Personnes/Synople.md","x":-160,"y":-1000,"width":400,"height":400},
+		{"id":"039fdcd6dfc15415","x":-1440,"y":-1000,"width":250,"height":60,"type":"text","text":"#Entreprise "}
+	],
+	"edges":[]
+}

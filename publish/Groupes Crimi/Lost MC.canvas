@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"1a2f357cb02b7df1","x":-460,"y":-220,"width":250,"height":60,"type":"text","text":"#GroupeCrimi "},
+		{"id":"585ec831e7ca18b6","x":-60,"y":-220,"width":400,"height":400,"type":"file","file":"Tropicalis/Personnes/Salazar.md"}
+	],
+	"edges":[]
+}

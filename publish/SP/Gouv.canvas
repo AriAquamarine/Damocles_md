@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3f10361691e6df04","x":-620,"y":-120,"width":400,"height":400,"type":"file","file":"Tropicalis/Personnes/Angel Mattia.md"},
+		{"id":"63a6fdd2e79ea0d8","type":"text","text":"#ServicePublique ","x":-1440,"y":55,"width":250,"height":50},
+		{"id":"0715d428d77a036c","x":-140,"y":-120,"width":400,"height":400,"type":"file","file":"Tropicalis/Personnes/El Presidente.md"},
+		{"id":"d5a39a2835361bbe","type":"file","file":"Tropicalis/Personnes/Max Korp.md","x":-360,"y":340,"width":400,"height":400}
+	],
+	"edges":[]
+}

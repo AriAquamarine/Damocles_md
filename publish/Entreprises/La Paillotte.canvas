@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3046d53eacffa2cb","x":-140,"y":-360,"width":400,"height":400,"type":"file","file":"Tropicalis/Personnes/Naya.md"},
+		{"id":"5b39a3677bae1e50","x":-920,"y":-360,"width":250,"height":60,"type":"text","text":"#Entreprise "},
+		{"id":"36ad3de9e20113ac","x":-140,"y":160,"width":400,"height":400,"type":"file","file":"Tropicalis/Personnes/Jessie.md"}
+	],
+	"edges":[]
+}

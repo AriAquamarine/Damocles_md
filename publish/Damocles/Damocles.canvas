@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"93e4ccdd2067085a","type":"file","file":"Tropicalis/publish/Damocles/Aleksandra Korov.md","x":-2760,"y":-1240,"width":400,"height":400},
+		{"id":"e52e878178e358c0","type":"file","file":"Tropicalis/publish/Damocles/Alex Lysias.md","x":-2240,"y":-1240,"width":400,"height":400},
+		{"id":"9fc3a14dd77f7680","type":"file","file":"Tropicalis/publish/Damocles/Alexandar Stref.md","x":-1720,"y":-1240,"width":400,"height":400},
+		{"id":"51c0f4b5335d8be5","type":"file","file":"Tropicalis/publish/Damocles/Amar Begovic.md","x":-1200,"y":-1240,"width":400,"height":400},
+		{"id":"0129c2fbf8fb9f36","type":"file","file":"Tropicalis/publish/Damocles/Dzan Popovic.md","x":-680,"y":-1240,"width":400,"height":400},
+		{"id":"bb8c1a631f9c75a0","type":"file","file":"Tropicalis/publish/Damocles/Lia Korov.md","x":-160,"y":-1240,"width":400,"height":400},
+		{"id":"a77fd0eed2fef70f","type":"file","file":"Tropicalis/publish/Damocles/Rozemeyer Korov.md","x":360,"y":-1240,"width":400,"height":400},
+		{"id":"4c478ae02e9d6d18","x":-2760,"y":-2160,"width":250,"height":60,"type":"text","text":"#GroupeCrimi "}
+	],
+	"edges":[]
+}
